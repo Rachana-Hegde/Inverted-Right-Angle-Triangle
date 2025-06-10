@@ -41,19 +41,6 @@ Enter height: 5
   * Inner print statement prints decreasing numbers of stars each time.
   * Ensures one `*` at the start of each row for edge alignment.
 
-## 🧾 Code
-
-```python
-a = int(input("Enter height: "))
-for i in range(a):
-    print("* ", end="")
-print()
-for i in range(a - 1):
-    print("* ", end="")
-    print("* " * (a - i - 2), end="")
-    print()
-```
-
 ## 🛠️ How to Run
 
 1. Save the code in a file like `inverted_triangle.py`.
