@@ -58,32 +58,24 @@ for i in range(a - 1):
 
 1. Save the code in a file like `inverted_triangle.py`.
 2. Run the file using Python:
-
 ```bash
 python inverted_triangle.py
 ```
-
 3. Enter a positive integer when prompted to see the inverted triangle pattern.
 
 ## 🎯 Use Case
 
 * Ideal for beginners practicing:
-
   * Nested loops
   * Pattern printing
   * Loop-based conditionals
 
 * Can be enhanced to:
-
   * Center-align the triangle
   * Use different symbols
   * Print hollow versions
 
-## 📄 License
+## 📬 Contact  
 
-This code is open-source under the **MIT License**.
-Feel free to use, modify, and share!
-
----
-
-Let me know if you’d like a version of this triangle aligned to the right or printed with numbers instead of stars!
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde) 
