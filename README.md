@@ -1,5 +1,3 @@
-
-
 # 🔻 Inverted Right-Angle Triangle – Python Program
 
 This is a simple Python program that prints an **inverted right-angle triangle pattern** using asterisks (`*`). The pattern begins with a full row of stars and reduces by one star per row.
