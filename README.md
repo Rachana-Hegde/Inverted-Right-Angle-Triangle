@@ -1,6 +1,4 @@
-Here is a clean and beginner-friendly **README.md** for your **Inverted Right-Angle Triangle** Python pattern program:
 
----
 
 # 🔻 Inverted Right-Angle Triangle – Python Program
 
